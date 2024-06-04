@@ -400,6 +400,7 @@ margin-top: 35cm;
 /* conteiner dois */
 .containerdois {
   margin-left: 15px;
+  margin-top: 1cm;
   box-shadow:none;
   background-color: none;
 
@@ -474,6 +475,26 @@ margin-bottom: 20px;}
 
     margin-right: 0;
   }
+
+  /* formulario */
+
+.formulario{
+
+  margin-top: 54cm;
+ 
+
+}
+
+footer{
+ 
+  margin-top: 70cm;
+
+
+
+
+
+}
+
 
 
 
