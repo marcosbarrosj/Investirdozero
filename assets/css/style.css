@@ -124,7 +124,7 @@ background-color: #ffffff;
 .container {
  width: 100%;
  margin-left: 4cm;
- margin-top: 20cm; 
+ margin-top: 17cm; 
 position: absolute;
 background-color: #00000071;
 padding: 20px;
@@ -136,7 +136,7 @@ box-shadow: 0 0 10px rgb(220, 220, 220);
 
 .containerdois {
   margin-left: 2cm;
- margin-top: 4cm; 
+ margin-top: 2cm; 
  position: absolute;
  background-color: #00000071;
  padding: 20px;
@@ -240,7 +240,6 @@ margin-top: 2cm;
 .formulario{
   padding: 20px;
   width: 89%;
-  margin-top: 1cm;
   text-align: center;
   margin-top: 50cm; 
  position: absolute;
@@ -288,7 +287,6 @@ background-color: black;
 footer{
   width: 89%;
  
-  margin-top: 1cm;
   text-align: center;
   margin-top: 63cm; 
  position: absolute;
